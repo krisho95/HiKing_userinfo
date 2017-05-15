@@ -1,0 +1,22 @@
+.w3-content{
+  font-family:Lucida Sans Unicode;
+  text-align:justify;
+}
+
+#tag{
+  font-size:10px;
+  letter-spacing: 2px;
+  line-height: 1px;　
+}
+
+#fo_button{
+  background-color: transparent;
+  color: black;
+  border: 1px solid black; 
+  border-radius: 5px;
+  padding: 3px 24px;
+  font-size: 10px; 
+}
+
+
+
